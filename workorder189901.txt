@@ -18,35 +18,20 @@ Estimated Duration: 10 hours
 
 Scope of Work:
 
-Visual Inspection of conveyor systems:
-Inspect all conveyor systems for signs of wear and tear.
-Check the condition of electrical wiring and connections.
-Examine hydraulic systems for leaks or malfunctions.
-Inspect pneumatic systems for air leaks and pressure issues.
+Visual Inspection of conveyor systems: Inspect all conveyor systems for signs of wear and tear. Check the condition of electrical wiring and connections. Examine hydraulic systems for leaks or malfunctions. Inspect pneumatic systems for air leaks and pressure issues.
 
-Lubrication:
-Apply lubricant to all moving parts of conveyor systems.
-Grease all bearings on related assets.
+Lubrication: Apply lubricant to all moving parts of conveyor systems. Grease all bearings on related assets.
 
-Electrical Maintenance:
-Inspect and tighten all electrical connections.
-Test emergency stop buttons and safety interlocks.
-Replace any damaged or worn electrical components.
-Hydraulic and Pneumatic Maintenance:
+Electrical Maintenance: Inspect and tighten all electrical connections. Test emergency stop buttons and safety interlocks. Replace any damaged or worn electrical components. Hydraulic and Pneumatic Maintenance:
 
 Check hydraulic fluid levels and top up if necessary.
 Inspect hydraulic hoses and fittings for damage.
 Test pneumatic valves and replace any faulty components.
 
 Safety Check:
-Ensure all safety guards and shields are in place.
-Verify that safety signage is visible and in good condition.
-Review lockout/tagout procedures with maintenance team.
+Ensure all safety guards and shields are in place. Verify that safety signage is visible and in good condition. Review lockout/tagout procedures with maintenance team.
 
-Documentation:
-Update maintenance logs for all inspected equipment.
-Record any repairs or replacements made during maintenance.
-Report any potential issues that require further attention.
+Documentation: Update maintenance logs for all inspected equipment. Record any repairs or replacements made during maintenance. Report any potential issues that require further attention.
 
 Materials and Resources:
 Lubricants and grease
