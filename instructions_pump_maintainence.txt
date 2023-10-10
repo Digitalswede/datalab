@@ -14,6 +14,7 @@ Daily Inspection: Perform a daily visual inspection of the pump and its surround
 Weekly Maintenance: Check the pump's lubrication system and oil levels. Refill if necessary. Inspect the condition of lubrication lines and fittings, and replace any damaged components.
 
 Monthly Maintenance: 
+The monthly maintenence consists of two parts, mechanical and electrical inspection.
 Mechanical Inspection: Examine the pump's mechanical components, including bearings, seals, and couplings, for wear or damage. Tighten any loose bolts or fasteners. Check alignment of the pump and motor.
 Electrical Inspection:Inspect the electrical connections and wiring for signs of damage or corrosion. Test the pump motor or engine's control system, including start/stop switches and safety interlocks.
 
