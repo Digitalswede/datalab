@@ -10,37 +10,20 @@ Safety Precautions:Helmet required, securiy harness required, safety level 3
 
 Prioritize safety at all times. Follow safety protocols and use appropriate personal protective equipment (PPE).
 
-Daily Inspection:
-Perform a daily visual inspection of the pump and its surroundings.
-Check for any signs of leakage, abnormal noise, or vibration.
-Ensure that safety guards and covers are in place and secure.
-Verify that the pump's control panel indicates normal operating conditions.
+Daily Inspection: Perform a daily visual inspection of the pump and its surroundings. Check for any signs of leakage, abnormal noise, or vibration. Ensure that safety guards and covers are in place and secure. Verify that the pump's control panel indicates normal operating conditions.
 
-Weekly Maintenance:
-Lubrication:
-Check the pump's lubrication system and oil levels. Refill if necessary.
-Inspect the condition of lubrication lines and fittings, and replace any damaged components.
+Weekly Maintenance: Check the pump's lubrication system and oil levels. Refill if necessary. Inspect the condition of lubrication lines and fittings, and replace any damaged components.
 
-Monthly Maintenance:
-Mechanical Inspection:
-Examine the pump's mechanical components, including bearings, seals, and couplings, for wear or damage.
-Tighten any loose bolts or fasteners.
-Check alignment of the pump and motor or engine.
-Electrical Inspection:
-Inspect the electrical connections and wiring for signs of damage or corrosion.
-Test the pump motor or engine's control system, including start/stop switches and safety interlocks.
+Monthly Maintenance: 
+Mechanical Inspection: Examine the pump's mechanical components, including bearings, seals, and couplings, for wear or damage. Tighten any loose bolts or fasteners. Check alignment of the pump and motor.
+Electrical Inspection:Inspect the electrical connections and wiring for signs of damage or corrosion. Test the pump motor or engine's control system, including start/stop switches and safety interlocks.
 
 Quarterly Maintenance:
-Vibration Analysis:
-Conduct a vibration analysis to identify any abnormal vibration patterns.
-Address any issues indicated by the analysis, such as unbalance or misalignment.
+Vibration Analysis: Conduct a vibration analysis to identify any abnormal vibration patterns. Address any issues indicated by the analysis, such as unbalance or misalignment.
 
 Annual Maintenance:
-Pump Overhaul:
-Schedule a full pump overhaul, which may include disassembly, inspection, and replacement of worn or damaged components.
-Replace seals, gaskets, and O-rings.
-Clean and inspect impellers, casing, and internal parts.
-Reassemble the pump, ensuring proper alignment and torque on all fasteners.
+Pump Overhaul: Schedule a full pump overhaul, which may include disassembly, inspection, and replacement of worn or damaged components.
+Replace seals, gaskets, and O-rings. Clean and inspect impellers, casing, and internal parts. Reassemble the pump, ensuring proper alignment and torque on all fasteners.
 
 Record Keeping:
 Maintain detailed records of all maintenance activities, including dates, tasks performed, and parts replaced.
