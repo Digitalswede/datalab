@@ -18,15 +18,17 @@ Estimated Duration: 10 hours
 
 Scope of Work:
 
-Visual Inspection of conveyor systems: Inspect all conveyor systems for signs of wear and tear. Check the condition of electrical wiring and connections. Examine hydraulic systems for leaks or malfunctions. Inspect pneumatic systems for air leaks and pressure issues.
+Visual Inspection of conveyor systems:
+Inspect all conveyor systems for signs of wear and tear. Check the condition of electrical wiring and connections. Examine hydraulic systems for leaks or malfunctions. Inspect pneumatic systems for air leaks and pressure issues.
 
-Lubrication: Apply lubricant to all moving parts of conveyor systems. Grease all bearings on related assets.
+Lubrication:
+Apply lubricant to all moving parts of conveyor systems. Grease all bearings on related assets.
 
-Electrical Maintenance: Inspect and tighten all electrical connections. Test emergency stop buttons and safety interlocks. Replace any damaged or worn electrical components. Hydraulic and Pneumatic Maintenance:
+Electrical Maintenance:
+Inspect and tighten all electrical connections. Test emergency stop buttons and safety interlocks. Replace any damaged or worn electrical components. Hydraulic and Pneumatic Maintenance:
 
-Check hydraulic fluid levels and top up if necessary.
-Inspect hydraulic hoses and fittings for damage.
-Test pneumatic valves and replace any faulty components.
+Hydraulics:
+Check hydraulic fluid levels and top up if necessary. Inspect hydraulic hoses and fittings for damage. Test valves and replace any faulty components.
 
 Safety Check:
 Ensure all safety guards and shields are in place. Verify that safety signage is visible and in good condition. Review lockout/tagout procedures with maintenance team.
@@ -46,5 +48,3 @@ All maintenance personnel must wear appropriate PPE.
 Follow lockout/tagout procedures.
 Be cautious of moving machinery and potential hazards.
 Ensure proper ventilation when working with chemicals or lubricants.
-Completion and Sign-off:
-Upon completion of this preventative maintenance work order, please sign and date below to confirm that all tasks have been completed to satisfaction and that the equipment/systems are in optimal working condition.
