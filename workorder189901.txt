@@ -33,7 +33,8 @@ Check hydraulic fluid levels and top up if necessary. Inspect hydraulic hoses an
 Safety Check:
 Ensure all safety guards and shields are in place. Verify that safety signage is visible and in good condition. Review lockout/tagout procedures with maintenance team.
 
-Documentation: Update maintenance logs for all inspected equipment. Record any repairs or replacements made during maintenance. Report any potential issues that require further attention.
+Documentation: 
+Update maintenance logs for all inspected equipment. Record any repairs or replacements made during maintenance. Report any potential issues that require further attention.
 
 Materials and Resources:
 Lubricants and grease
