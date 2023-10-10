@@ -7,7 +7,7 @@ Contact Information: Kirankumar Rathod
 
 Recipient: Facility Manager
 Department: Production Line
-Contact Information: 0123 45 67 89 10
+Contact Information: manager@facility.se
 
 Project Details:
 Facility: Northern Work Site
