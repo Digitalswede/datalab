@@ -1,7 +1,6 @@
 Oil Rig Pump Maintenance Instructions
 
 Equipment Information:
-
 Pump Type: Centrifugal Pump
 Pump Model: PMP-1000
 Location: 000111XXCA-501
