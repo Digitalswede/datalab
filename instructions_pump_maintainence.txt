@@ -1,8 +1,8 @@
 Oil Rig Pump Maintenance Instructions
 
 Equipment Information:
-Pump Type: Centrifugal Pump
-Pump Model: PMP-1000
+Asset: Centrifugal Pump
+Asset Model: PMP-1000
 Location: 000111XXCA-501
 Date of Last Maintenance: 2021-09-01
 Safety Precautions:Helmet required, securiy harness required, safety level 3
@@ -13,31 +13,19 @@ Daily Inspection: Perform a daily visual inspection of the pump and its surround
 
 Weekly Maintenance: Check the pump's lubrication system and oil levels. Refill if necessary. Inspect the condition of lubrication lines and fittings, and replace any damaged components.
 
-Monthly Maintenance: 
-The monthly maintenence consists of two parts, mechanical and electrical inspection.
-Mechanical Inspection: Examine the pump's mechanical components, including bearings, seals, and couplings, for wear or damage. Tighten any loose bolts or fasteners. Check alignment of the pump and motor.
-Electrical Inspection:Inspect the electrical connections and wiring for signs of damage or corrosion. Test the pump motor or engine's control system, including start/stop switches and safety interlocks.
+Monthly Maintenance:  The monthly maintenence consists of two parts, mechanical and electrical inspection. Mechanical Inspection: Examine the pump's mechanical components, including bearings, seals, and couplings, for wear or damage. Tighten any loose bolts or fasteners. Check alignment of the pump and motor. Electrical Inspection: Inspect the electrical connections and wiring for signs of damage or corrosion. Test the pump motor or engine's control system, including start/stop switches and safety interlocks.
 
-Quarterly Maintenance:
-Vibration Analysis: Conduct a vibration analysis to identify any abnormal vibration patterns. Address any issues indicated by the analysis, such as unbalance or misalignment.
+Quarterly Maintenance: Vibration Analysis: Conduct a vibration analysis to identify any abnormal vibration patterns. Address any issues indicated by the analysis, such as unbalance or misalignment.
 
-Annual Maintenance:
-Pump Overhaul: Schedule a full pump overhaul, which may include disassembly, inspection, and replacement of worn or damaged components.
-Replace seals, gaskets, and O-rings. Clean and inspect impellers, casing, and internal parts. Reassemble the pump, ensuring proper alignment and torque on all fasteners.
+Annual Maintenance: Pump Overhaul: Schedule a full pump overhaul, which may include disassembly, inspection, and replacement of worn or damaged components. Replace seals, gaskets, and O-rings. Clean and inspect impellers, casing, and internal parts. Reassemble the pump, ensuring proper alignment and torque on all fasteners.
 
-Record Keeping:
-Maintain detailed records of all maintenance activities, including dates, tasks performed, and parts replaced.
-Record any abnormal findings, actions taken, and recommendations for future maintenance.
+Record Keeping: Maintain detailed records of all maintenance activities, including dates, tasks performed, and parts replaced. Record any abnormal findings, actions taken, and recommendations for future maintenance.
 
-Emergency Response Plan:
-Develop and communicate an emergency response plan for pump failures or leaks.
-Ensure that the maintenance team is trained in emergency procedures and knows how to isolate and shut down the pump safely.
+Emergency Response Plan: Develop and communicate an emergency response plan for pump failures or leaks. Ensure that the maintenance team is trained in emergency procedures and knows how to isolate and shut down the pump safely.
 
-Spare Parts Inventory:
-The spare parts inventory for pump PMP-1000 includes seals, bearings, gaskets and hoses in various diameters.
+Spare Parts Inventory: The spare parts inventory for pump PMP-1000 includes seals, bearings, gaskets and hoses in various diameters.
 
-Vendor Support:
-Technical support, spare parts, and expertise in case of complex, undocumented issues.
+Vendor Support: Technical support, spare parts, and expertise in case of complex, undocumented issues.
 
 Environmental Considerations:
 Adhere to environmental regulations when handling oil or other potentially hazardous substances.
