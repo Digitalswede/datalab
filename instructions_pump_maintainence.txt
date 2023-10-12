@@ -1,8 +1,7 @@
-Oil Rig Pump Maintenance Instructions
+Pump PMP-1000 Maintenance Instructions
 
-Equipment Information:
-Asset: Centrifugal Pump
-Asset Model: PMP-1000
+Asset Type: Centrifugal Pump
+Asset ID: PMP-1000
 Location: 000111XXCA-501
 Date of Last Maintenance: 2021-09-01
 Safety Precautions:Helmet required, securiy harness required, safety level 3
