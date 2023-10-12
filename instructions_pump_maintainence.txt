@@ -27,6 +27,4 @@ Spare Parts Inventory: The spare parts inventory for pump PMP-1000 includes seal
 
 Vendor Support: Technical support, spare parts, and expertise in case of complex, undocumented issues.
 
-Environmental Considerations:
-Adhere to environmental regulations when handling oil or other potentially hazardous substances.
-Implement spill containment measures and proper disposal practices.
+Environmental Considerations: Implement spill containment measures when handling oil or other potentially hazardous substances.
