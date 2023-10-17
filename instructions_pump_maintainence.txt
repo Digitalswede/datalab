@@ -40,9 +40,8 @@ Technical support, spare parts, and expertise in case of complex, undocumented i
 Environmental Considerations: 
 Implement spill containment measures when handling oil or other potentially hazardous substances.
 
-
-Work order performed on this pump:
+Work order details:
 Work order id: 0011CCDD
-Work type: Preventative Maintainence (PM)
+Work order type: Preventative Maintainence (PM)
 Work order activities: 1. Lubricated gears 2. Replaced seals 3. Checked oil values
-Work order contact person: Lars Kry
+Work order contact person: Björn Appehl
