@@ -1,11 +1,9 @@
 Work order 0011CCDD details
-
-Work order asset: PMP-1000
-Work order id: 0011CCDD
-Work order type: Preventative Maintainence (PM)
-Work order activities: 1. Lubricated gears 2. Replaced seals 3. Checked oil values
-Work order contact person: Björn Appehl
-
+PMP-1000
+id: 0011CCDD
+type: Preventative Maintainence (PM)
+activities: 1. Lubricated gears 2. Replaced seals 3. Checked oil values
+contact person: Björn Appehl
 
 
 
