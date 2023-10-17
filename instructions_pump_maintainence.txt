@@ -8,22 +8,34 @@ Safety Precautions:Helmet required, securiy harness required, safety level 3
 
 Prioritize safety at all times. Follow safety protocols and use appropriate personal protective equipment (PPE).
 
-Daily Inspection: Perform a daily visual inspection of the pump and its surroundings. Check for any signs of leakage, abnormal noise, or vibration. Ensure that safety guards and covers are in place and secure. Verify that the pump's control panel indicates normal operating conditions.
+Daily Inspection: 
+Perform a daily visual inspection of the pump and its surroundings. Check for any signs of leakage, abnormal noise, or vibration. Ensure that safety guards and covers are in place and secure. Verify that the pump's control panel indicates normal operating conditions.
 
-Weekly Maintenance: Check the pump's lubrication system and oil levels. Refill if necessary. Inspect the condition of lubrication lines and fittings, and replace any damaged components.
+Weekly Maintenance: 
+Check the pump's lubrication system and oil levels. Refill if necessary. Inspect the condition of lubrication lines and fittings, and replace any damaged components.
 
-Monthly Maintenance:  The monthly maintenence consists of two parts, mechanical and electrical inspection. Mechanical Inspection: Examine the pump's mechanical components, including bearings, seals, and couplings, for wear or damage. Tighten any loose bolts or fasteners. Check alignment of the pump and motor. Electrical Inspection: Inspect the electrical connections and wiring for signs of damage or corrosion. Test the pump motor or engine's control system, including start/stop switches and safety interlocks.
+Monthly Maintenance:  
+The monthly maintenence consists of two parts, mechanical and electrical inspection. 
+Mechanical Inspection: Examine the pump's mechanical components, including bearings, seals, and couplings, for wear or damage. Tighten any loose bolts or fasteners. Check alignment of the pump and motor. 
+Electrical Inspection: Inspect the electrical connections and wiring for signs of damage or corrosion. Test the pump motor or engine's control system, including start/stop switches and safety interlocks.
 
-Quarterly Maintenance: Vibration Analysis: Conduct a vibration analysis to identify any abnormal vibration patterns. Address any issues indicated by the analysis, such as unbalance or misalignment.
+Quarterly Maintenance: 
+Conduct a vibration analysis to identify any abnormal vibration patterns. Address any issues indicated by the analysis, such as unbalance or misalignment.
 
-Annual Maintenance: Pump Overhaul: Schedule a full pump overhaul, which may include disassembly, inspection, and replacement of worn or damaged components. Replace seals, gaskets, and O-rings. Clean and inspect impellers, casing, and internal parts. Reassemble the pump, ensuring proper alignment and torque on all fasteners.
+Annual Maintenance:
+Schedule a full pump overhaul, which may include disassembly, inspection, and replacement of worn or damaged components. Replace seals, gaskets, and O-rings. Clean and inspect impellers, casing, and internal parts. Reassemble the pump, ensuring proper alignment and torque on all fasteners.
 
-Record Keeping: Maintain detailed records of all maintenance activities, including dates, tasks performed, and parts replaced. Record any abnormal findings, actions taken, and recommendations for future maintenance.
+Record Keeping: 
+Maintain detailed records of all maintenance activities, including dates, tasks performed, and parts replaced. Record any abnormal findings, actions taken, and recommendations for future maintenance.
 
-Emergency Response Plan: Develop and communicate an emergency response plan for pump failures or leaks. Ensure that the maintenance team is trained in emergency procedures and knows how to isolate and shut down the pump safely.
+Emergency Response Plan: 
+Shut down the pump if possible, de-escalate situation, buy new pump as cheap as possible
 
-Spare Parts Inventory: The spare parts inventory for pump PMP-1000 includes seals, bearings, gaskets and hoses in various diameters.
+Spare Parts Inventory: 
+Seals, bearings, gaskets and hoses in various diameters are in stock.
 
-Vendor Support: Technical support, spare parts, and expertise in case of complex, undocumented issues.
+Vendor Support: 
+Technical support, spare parts, and expertise in case of complex, undocumented issues.
 
-Environmental Considerations: Implement spill containment measures when handling oil or other potentially hazardous substances.
+Environmental Considerations: 
+Implement spill containment measures when handling oil or other potentially hazardous substances.
