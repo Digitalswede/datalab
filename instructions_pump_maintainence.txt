@@ -1,3 +1,14 @@
+Work order 0011CCDD details
+
+Work order asset: PMP-1000
+Work order id: 0011CCDD
+Work order type: Preventative Maintainence (PM)
+Work order activities: 1. Lubricated gears 2. Replaced seals 3. Checked oil values
+Work order contact person: Björn Appehl
+
+
+
+
 Pump PMP-1000 Maintenance Instructions
 
 Asset Type: Centrifugal Pump
@@ -5,12 +16,6 @@ Asset ID: PMP-1000
 Location: 000111XXCA-501
 Date of Last Maintenance: 2021-09-01
 Safety Precautions:Helmet required, securiy harness required, safety level 3
-
-Pump PMP-1000 Work order details
-Work order id: 0011CCDD
-Work order type: Preventative Maintainence (PM)
-Work order activities: 1. Lubricated gears 2. Replaced seals 3. Checked oil values
-Work order contact person: Björn Appehl
 
 Prioritize safety at all times. Follow safety protocols and use appropriate personal protective equipment (PPE).
 
