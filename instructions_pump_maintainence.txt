@@ -6,7 +6,7 @@ Location: 000111XXCA-501
 Date of Last Maintenance: 2021-09-01
 Safety Precautions:Helmet required, securiy harness required, safety level 3
 
-Work order details
+Pump PMP-1000 Work order details
 Work order id: 0011CCDD
 Work order type: Preventative Maintainence (PM)
 Work order activities: 1. Lubricated gears 2. Replaced seals 3. Checked oil values
