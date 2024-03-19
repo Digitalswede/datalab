@@ -1,6 +1,7 @@
 3 Mar 2024 03:44:15:394 [ERROR] [MXServer] [CID-MXOSLC-534371] BMXAA5535E	The program could not connect to the database. Examine the error stack trace to determine the cause of the connection failure, and then correct the connection URL or credential in the maximo.properties file. If you need further assistance, ask your system administrator to check the database connection properties.
 7 Mar 2024 21:44:15:394 [ERROR] [MXServer] [CID-MXOSLC-534371] BMXAA0013E	You must define the domain type before you can add values to the domain.
 10 Mar 2024 01:44:15:395 [ERROR] [MXServer] [CID-MXOSLC-534371] BMXAT0326W	You cannot restore this qualification because it is associated with a required craft that was deleted.
+10 Mar 2024 01:44:15:395 [ERROR] [MXServer] [CID-MXOSLC-534371] BMXAA0580E	The same index name is used on different tables in the native database, therefore index metadata cannot be updated.  To refresh index metadata, you must first manually identify and rename these native indexes.
 13 Mar 2024 14:44:15:395 [ERROR] [MXServer] [CID-MXOSLC-534371] BMXAA0557I	Upgrade loadSysData for MaxMessages.
-20 Mar 2024 09:44:15:395 [ERROR] [MXServer] [CID-MXOSLC-534371] BMXAA0450E	The upgrade file {0} is for upgrading from maxupg version {1}. However, the connected database is maxupg version {2}.
+20 Mar 2024 09:44:15:395 [ERROR] [MXServer] [CID-MXOSLC-534371] BMXAA0450E	BMXAA0572E	You cannot make changes while the database configuration is in process.
 25 Mar 2024 17:44:16:203 [ERROR] [MXServer] [CID-MXOSLC-534372] BMXAA0638E	Multilanguage is not supported for this attribute, thus it cannot be flagged as in use.
